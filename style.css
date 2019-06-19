@@ -1,0 +1,21 @@
+body{
+    background-color: #ff8a6b;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+}
+header .wrapper{
+
+    float: right;
+    font-family: Arial;
+    font-size: 16px;
+}
+header nav div div form{
+    float: left;
+}
+header nav div div a button{
+    font-family: Arial;
+    font-size: 14px;
+}

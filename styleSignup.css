@@ -1,0 +1,22 @@
+body{
+    background-image: url("background/20.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    background-color: cornsilk;
+    text-align: center;
+    font-family: Arial;
+    font-size: 28px;
+
+}
+table{
+    background-color: #ff8a6b;
+    width: 750px;
+    enable-background: visible;
+
+
+}
+form{
+    font-family: "Lucida Fax";
+}
